@@ -46,10 +46,10 @@ Casos esperados: registro `201`, usuario repetido `409`, login correcto `200`, l
 
 
 ## Registro Usuario Valido
-<img src="img/registro_usuario_correcto.png" width="100">
+<img src="img/registro_usuario_correcto.png" width="1000">
 
 ## Intento Registro Usuario Existente
-<img src="img/Error_Registro_usuario_existente.png" width="100">
+<img src="img/Error_Registro_usuario_existente.png" width="1000">
 
 ## Ingreso con Usuario Correcto
 <img src="img/Ingreso_con_usuario_correcto.png" width="1000">
