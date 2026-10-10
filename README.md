@@ -2,7 +2,8 @@
 
 ## PROGRAMACION SOBRE REDES
 
-## Alumno :  SPECTERMAN LUIS OMAR
+## Alumno    :  SPECTERMAN LUIS OMAR
+## Comision  :  E
 
 API REST hecha con **Flask** y **SQLite**. Los usuarios se registran con contraseña hasheada, inician sesión y acceden a una página de bienvenida en `/tareas`.
 

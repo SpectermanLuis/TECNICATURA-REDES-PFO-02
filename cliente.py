@@ -1,6 +1,6 @@
 #  PROGRAMACION SOBRE REDES
 #  PRACTIFA FORMATIVA 2 
-#  Alumno: Specterman Luis Omar
+#  Alumno: Specterman Luis Omar    Comision : E
 #  
 #  Programa cliente.py 
 #  PFO 2 - Sistema de Gestión de Tareas con API y Base de Datos
